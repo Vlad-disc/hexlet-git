@@ -1,7 +1,5 @@
 access.log
 
-node_modules/
+DS_Store
 
-/coverage/
-
-INFO.md
+INFO.mdx
